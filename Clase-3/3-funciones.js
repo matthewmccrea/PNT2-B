@@ -5,9 +5,11 @@ function intentoDeMap(arr, fnc){
     // arr.forEach((element) => {
         
     // });
-    arr.forEach(function(element){
-        nuevoArray.push(fnc(element))
+    arr.forEach(function(numeros){
+        nuevoArray.push(fnc(numeros))
     });
+
+
 
     return nuevoArray
 
