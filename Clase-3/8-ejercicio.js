@@ -13,5 +13,5 @@ function obtenerUsuariosAleatorios(){
 
 const usuarios = obtenerUsuariosAleatorios();
 
-console.log(usuarios);
+console.log(usuarios)
 
