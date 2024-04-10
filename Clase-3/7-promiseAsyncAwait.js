@@ -8,6 +8,8 @@ const cargarUsuario = async () => {
     const usuario = datos.results[0]
 
 
+    // VOLVEMOS 21:35
+
     return usuario
 
 }
