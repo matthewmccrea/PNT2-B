@@ -1,4 +1,5 @@
-const cargarUsuario = async () => {
+
+const obtenerUsuario = async () => {
     const respuesta = await fetch('https://randomuser.me/api/')
 
     const datos = await respuesta.json()
@@ -28,4 +29,5 @@ funcionPadre()
 
 // funcion flecha y funcion tradicional
 // function () es lo mismo que () =>
+
 

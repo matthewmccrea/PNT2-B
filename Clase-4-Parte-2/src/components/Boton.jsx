@@ -18,3 +18,4 @@ export const Boton = ({tareas, setTareas}) => {
     <button className='button center' onClick={agregarTarea}>Agregar Tarea</button>
   )
 }
+

@@ -33,3 +33,4 @@ export const Tarea = ({tareas, setTareas}) => {
     </ul>
   )
 }
+

@@ -5,6 +5,7 @@ import { Principal } from './components/Principal/Principal'
 function App() {
 
   return (
+    
     <>
     {/* <Principal /> */}
     <h1>Alumnos:</h1>
