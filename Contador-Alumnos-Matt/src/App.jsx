@@ -15,10 +15,6 @@ function App() {
 
    </Principal>
 
-   <Titulo> 
-    
-   </Titulo>
-
     </>
   )
 }
